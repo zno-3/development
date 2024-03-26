@@ -1,9 +1,3 @@
-066-946-66-09 telegram
-Андрій
-
-
-
-
 
 # Getting Started with Create React App
 
